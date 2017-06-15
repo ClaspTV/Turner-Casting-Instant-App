@@ -5,9 +5,9 @@
 The goal of this sample project is to leverage Android Instant Apps to enable users to cast to nearby TVs from mobile devices. The typical use-case is :
 
 1. User sees a marketing ad on any of the known mobile marketing channels
-* When user clicks on the marketing link, the instant app is launched
-* Instant app detects FireTV or Chromecast if available
-* User can cast to discovered TV device or watch on the phone
+2. When user clicks on the marketing link, the instant app is launched
+3. Instant app detects FireTV or Chromecast if available
+4. User can cast to discovered TV device or watch on the phone
 
 ## Instructions
 
