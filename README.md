@@ -20,7 +20,8 @@ To run this project as a full app, set Android Studio's Run Configuration to 'ap
 ![alt text][fullAppRunConfig]
 
 #### Expected
-Connected Fire TV devices should appear in the list
+Connected Fire TV devices should appear in the list.
+
 ![alt text][fullAppScreenshot]
 
 [fullAppRunConfig]: screenshots/full_app_run_config.png ""
@@ -33,7 +34,8 @@ To run this project as an instant app, set Android Studio's Run Configuration to
 ![alt text][instantAppRunConfig]
 
 #### Expected
-Connected Fire TV devices will not appear in the list
+Connected Fire TV devices will not appear in the list.
+
 ![alt text][instantAppScreenshot]
 
 [instantAppRunConfig]: screenshots/instant_app_run_config.png ""
