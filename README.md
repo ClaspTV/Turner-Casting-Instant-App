@@ -34,7 +34,7 @@ To run this project as an instant app, set Android Studio's Run Configuration to
 ![alt text][instantAppRunConfig]
 
 #### Expected
-Connected FireTV devices will appear in the list just like full Android app case.
+Connected FireTV devices should appear in the list (just like they did with full Android app).
 
 #### Current Issue
 Connected FireTV devices are not showing up in Android Instant App. (see below).
