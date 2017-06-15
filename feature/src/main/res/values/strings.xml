@@ -1,0 +1,4 @@
+<resources>
+    <string name="device_list_header">Found Devices</string>
+    <string name="device_list_empty">No devices available</string>
+</resources>
