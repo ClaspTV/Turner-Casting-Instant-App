@@ -13,7 +13,7 @@ The goal of this sample project is to leverage Android Instant Apps to enable us
 
 ### Setup
 1. Connect mobile phone/tablet to Wifi
-2. Connect an Amazon Fire TV device to the same Wifi network
+2. Ensure there is an Amazon Fire TV device connected to the same Wifi network
 
 ### Running project as a Full App
 To run this project as a full app, set Android Studio's Run Configuration to 'app'
