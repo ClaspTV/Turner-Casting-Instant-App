@@ -1,16 +1,16 @@
 # Turner Casting Instant App
 
-###Instructions
+### Instructions
 
-####Setup
+#### Setup
 1. Connect mobile phone/tablet to Wifi
 * Connect an Amazon Fire TV device to the same Wifi network
 
-####Running project as a Full App
+#### Running project as a Full App
 To run this project as a full app, set Android Studio's Run Configuration to 'app'
 ![alt text][fullAppRunConfig]
 
-#####Expected
+##### Expected
 Connected Fire TV devices should appear in the list
 ![alt text][fullAppScreenshot]
 
@@ -19,11 +19,11 @@ Connected Fire TV devices should appear in the list
 
 ---
 
-####Running project as an Instant App
+#### Running project as an Instant App
 To run this project as an instant app, set Android Studio's Run Configuration to 'instantapp'
 ![alt text][instantAppRunConfig]
 
-#####Expected
+##### Expected
 Connected Fire TV devices will not appear in the list
 ![alt text][fullAppScreenshot]
 
